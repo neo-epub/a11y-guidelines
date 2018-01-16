@@ -1,3 +1,15 @@
+# Korean translation of "EPUB3 Accessibility Guidelines"
+
+본 레파지토리는 IDPF에서 제공하는 EPUB3 접근성 가이드라인을 한국어로 번역한 번역본입니다.
+저희 회사가 R&D 프로젝트를 수행하면서 참고하기 위해 작성한 문서입니다.
+제 부족한 영어 실력으로 발번역을 해 두었으니 크게 도움이 안 되실 겁니다...
+
+*원본 레파지토리: https://github.com/IDPF/a11y-guidelines*
+
+*이하 원문입니다.*
+
+---------
+
 # EPUB 3 Accessibility Guidelines
 
 This repository contains the source pages for the [EPUB 3 Accessibility Guidelines](http://www.idpf.org/accessibility/guidelines/).
